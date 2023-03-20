@@ -13,4 +13,4 @@ Change the path to the maze_config.txt file in the *DFS_Algorithm.py file* at li
 Run the script and see how the DFS algorithm travel to find the paths by  
 `python3 DFS_Algorithm.py`  
 ### Demo video  
-You can find a demo video in this link: https://youtu.be/yHdGFZZGBOg
+You can find a demo video here: https://youtu.be/yHdGFZZGBOg
