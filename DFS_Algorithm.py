@@ -28,7 +28,7 @@ def extract_variables(file_name):
     return {"number_of_rows": number_of_rows, "number_of_columns": number_of_columns, "start_location": start_location, "end_location": end_location}
 
 # The function take in a string parameter represents the path to the maze_config.txt file, you'll need to change this to the path where it contains the maze_config.txt file 
-maze_config = extract_variables("SIT215/Assignment-1/maze_config.txt")
+maze_config = extract_variables("maze_config.txt")
 
 # Extract variables including rows, columns to form the size of the maze, then start location and end location inside the maze
 maze_rows = maze_config["number_of_rows"]
